@@ -2,6 +2,7 @@
 
 Hi there,
 I have this .jdm file, which is an update file for a digital automotive gauge cluster. I'm looking to modify it to use my own and custom assets/skins/values in the digital car cluster. This file specifically adds a 'sportive skin' to the cluster. I've done research for a few days, but cannot find the software/IDE to open it.
+(Split into 3 RAR files, because GitHub didn't allow files larger than 25mb. I'm not familiar with GitHub.)
 
 
 ## Some tips
